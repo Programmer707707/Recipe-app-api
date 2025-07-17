@@ -4,6 +4,9 @@ run:
 dockerUp:
 	docker-compose up
 
+dockerBuild:
+	docker-compose build
+
 migrate:
 	docker-compose run --rm app sh -c "python manage.py makemigrations"
 	docker-compose run --rm app sh -c "python manage.py migrate"
