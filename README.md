@@ -1,6 +1,6 @@
 # Recipe-app-api
 
-## ✅ Project Overview: Recipe REST API (Django + SQLite)
+## ** ✅ Project Overview: Recipe REST API (Django + SQLite) ** ##
 ## 🔧 Tech Stack:
 ## Backend: Django + Django REST Framework (DRF)
 
