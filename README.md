@@ -1,20 +1,20 @@
-# Recipe-app-api
+# Recipe App API
 
-## ** ✅ Project Overview: Recipe REST API (Django + SQLite) ** ##
-## 🔧 Tech Stack:
-## Backend: Django + Django REST Framework (DRF)
+## ✅ Project Overview
+Recipe REST API built with **Django** and **SQLite**.  
+Provides CRUD functionality for recipes, ingredients, and categories using a RESTful API design with token-based authentication.
 
-## Database: SQLite
+---
 
-## API Style: RESTful (JSON responses)
+## 🔧 Tech Stack
+- **Backend:** Django + Django REST Framework (DRF)
+- **Database:** SQLite
+- **API Style:** RESTful (JSON responses)
+- **Authentication:** Token/Auth-based
 
-## Authentication: Token/Auth-based
+---
 
-## Features:
-
-## CRUD for Recipes
-
-## Ingredients 
-
-## Categories 
-
+## 🚀 Features
+- CRUD for Recipes  
+- Ingredients Management  
+- Categories Management
